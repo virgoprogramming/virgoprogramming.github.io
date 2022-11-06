@@ -155,7 +155,7 @@ body{
     right: 0;
     top: 140px;
     background-attachment: fixed;
-    background: url(image/childe-3.png);
+    background: url(childe-3.png);
 }
 .jumbotron-text button:hover .ex-btn{
     margin-left: 150px;
